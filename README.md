@@ -2,9 +2,7 @@
 
 ### Project Description: 
 
-The aim of this project is twofold. 
-+ First, it serves practicing the git/GitHub workflow, including writing a meaningful REAMDE. 
-+ Second, this is the first time using a debug message with concatinations of strings and variables. 
+This Project is document where various school exercises are accomplished
 
 ### Development platform: 
 
@@ -16,7 +14,7 @@ WebGL (RefRes: 1280x720 HD-720p)
 
 ### Lessons Learned
 
-+ Learned how to make a GUI with Unity 
++ Improved my versioning workflow
 
 
 *copyright by Lhelbok*
